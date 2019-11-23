@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Emorec</string>
+    <string name="take_picture">Take a picture</string>
 </resources>
